@@ -13,6 +13,7 @@ Este proyecto es un clon de la interfaz de Pinterest, creado con HTML5. Se enfoc
   - **Google icons:** Para íconos personalizados.
  
   ### Vista Previa del proyecto
+![Demo](/imagenes/cappinterest.png)
 
   ### Contacto
 
